@@ -123,7 +123,7 @@ Allow: /
 # -----------------------------------------------
 # SITEMAP & LLMs.txt
 # -----------------------------------------------
-Sitemap: https://www.lifeinmidstream.com/sitemap.xml
+Sitemap: https://www.authorstevelevine.com/sitemap.xml
 
 # LLMs.txt location
-# https://www.lifeinmidstream.com/llms.txt
+# https://www.authorstevelevine.com/llms.txt
